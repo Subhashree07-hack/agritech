@@ -1,4 +1,6 @@
 // Complete 27 products with verified high-definition imagery, stock, and health benefits
+import sweetPotatoImg from '../assets/sweet-potato.jpg'
+
 export const DEFAULT_PRODUCTS = [
   // --- 11 VEGETABLES (At least 5+ with realistic images & stock) ---
   {
@@ -69,7 +71,7 @@ export const DEFAULT_PRODUCTS = [
     rating: 4.7,
     farmer: { name: 'Murugan K.', phone: '+91 94432 10981' },
     isJuiceSuitable: false,
-    image: '/images/sweet-potato.jpg',
+    image: sweetPotatoImg,
   },
   {
     _id: 'v5',

@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss",
+    "ms-vscode.vscode-node-pack",
+    "christian-kohler.path-intellisense",
+    "mongodb.mongodb-vscode",
+    "eamodio.gitlens"
+  ]
+}
